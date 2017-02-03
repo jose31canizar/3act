@@ -1,5 +1,5 @@
 {
-  "name": "3jsReact",
+  "name": "3act",
   "version": "1.0.0",
   "description": "Boilerplate for three.js wrapped in React",
   "main": "index.js",
@@ -25,7 +25,8 @@
     "react-three-renderer": "3.0.0",
     "stats.js": "^1.0.0",
     "three": "0.82.1",
-    "three-orbit-controls": "^82.1.0"
+    "three-orbit-controls": "^82.1.0",
+    "three-trackballcontrols": "0.0.5"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
